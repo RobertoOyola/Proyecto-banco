@@ -259,9 +259,6 @@ namespace Proyecto_banco
             //string cedula = " ";
             try
             {
-                //Console.WriteLine("Ingrese el numero de cedula del cliente");
-                //cedula = Console.ReadLine();
-                //Console.WriteLine();
                 for (int i = 0; i < this.listaclientes.Count; i++)
                 {
                     if (cedula == this.listaclientes[i].numerodeidentificacion)

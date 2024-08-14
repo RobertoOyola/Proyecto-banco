@@ -14,14 +14,13 @@ namespace Proyecto_banco
     {
         private static void PrintPage( PrintPageEventArgs e,Cliente cliente,int numerocuenta)
         {
-            // Aquí puedes dibujar lo que quieras imprimir en el objeto Graphics
 
             Graphics g = e.Graphics;
             float x = 0;
             int xint = Convert.ToInt32(x);
             float y = 0;
             int yint = Convert.ToInt32(y);
-            string imagenpath = "C:\\Users\\SirLancelotR pc\\Downloads\\Proyecto nuevo (1).png";
+            string imagenpath = "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto nuevo (1).png";
             Image image = Image.FromFile(imagenpath);
             Font font = new Font("Arial", 15, FontStyle.Bold);
             Font font2 = new Font("Times New Roman", 13, FontStyle.Bold);
@@ -41,8 +40,8 @@ namespace Proyecto_banco
             int xint = 35;
             float y = 0;
             int yint = 220;
-            string banner = "C:\\Users\\SirLancelotR pc\\Downloads\\PikPng.com_lineas-png_3248788.png";
-            string logo = "C:\\Users\\SirLancelotR pc\\Downloads\\Sin-titulo-9.png";
+            string banner = "C:\\Users\\royol\\Documents\\Proyecto banco\\PikPng.com_lineas-png_3248788.png";
+            string logo = "C:\\Users\\royol\\Documents\\Proyecto banco\\Sin-titulo-9.png";
             Image image = Image.FromFile(banner);
             Image logo1 = Image.FromFile(logo);
             Font titulo = new Font("Times New Roman", 30, FontStyle.Bold);
@@ -1126,7 +1125,7 @@ namespace Proyecto_banco
                                                         PrintDocument pd = new PrintDocument();
                                                         pd.PrintPage += new PrintPageEventHandler((sender, e) => PrintPage(e, SistemaBancarioGeneral.listaclientes[i], numerocuenta));
                                                         //pd.PrinterSettings.PrinterName = "EPSON L355 Series";
-                                                        pd.PrinterSettings.PrinterName = "EPSON087EF0 (L355 Series)";
+                                                        pd.PrinterSettings.PrinterName = "PDF24";
                                                         Banco obj = ManipulacionArchivos.GetArchivoBanco(sCodigoBanco);
                                                         obj.listaclientes[i].cuentasbasociadas[numerocuenta].sino = "si";
                                                         ManipulacionArchivos.CrearArchivoBanco(obj);
@@ -1251,7 +1250,7 @@ namespace Proyecto_banco
                                                         PrintDocument pd = new PrintDocument();
                                                         pd.PrintPage += new PrintPageEventHandler((sender, e) => PrintEstado(e, SistemaBancarioGeneral.listaclientes[i], numerocuenta2));
                                                         //pd.PrinterSettings.PrinterName = "EPSON L355 Series";
-                                                        pd.PrinterSettings.PrinterName = "EPSON087EF0 (L355 Series)";
+                                                        pd.PrinterSettings.PrinterName = "PDF24";
                                                         Banco obj = ManipulacionArchivos.GetArchivoBanco(sCodigoBanco);
                                                         obj.listaclientes[i].cuentasbasociadas[numerocuenta2].sino = "si";
                                                         ManipulacionArchivos.CrearArchivoBanco(obj);

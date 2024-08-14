@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|C:\\Users\\royol\\Documents\\Proyecto banco\\proyecto banco\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|C:\\Users\\royol\\Documents\\Proyecto banco\\proyecto banco\\clases\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +19,20 @@
       "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|c:\\users\\royol\\documents\\proyecto banco\\proyecto banco\\clases\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|c:\\users\\royol\\documents\\proyecto banco\\proyecto banco\\clases\\manipulacionarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\manipulacionarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|C:\\Users\\royol\\Documents\\Proyecto banco\\proyecto banco\\clases\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\transacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|C:\\Users\\royol\\Documents\\Proyecto banco\\proyecto banco\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5FB216-BF87-4C89-9A2C-228FDFD4EB6A}|Proyecto banco\\Proyecto banco.csproj|solutionrelative:proyecto banco\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,35 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "ManipulacionArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\ManipulacionArchivos.cs",
+              "RelativeDocumentMoniker": "Proyecto banco\\Clases\\ManipulacionArchivos.cs",
+              "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\ManipulacionArchivos.cs",
+              "RelativeToolTip": "Proyecto banco\\Clases\\ManipulacionArchivos.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:58:01.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Proyecto banco\\Clases\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\CuentaBancaria.cs",
+              "RelativeToolTip": "Proyecto banco\\Clases\\CuentaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:58:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Persona.cs",
               "RelativeDocumentMoniker": "Proyecto banco\\Clases\\Persona.cs",
               "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Persona.cs",
               "RelativeToolTip": "Proyecto banco\\Clases\\Persona.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAABZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T01:51:36.116Z"
+              "WhenOpened": "2024-08-13T01:51:36.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Transacciones.cs",
               "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Transacciones.cs",
               "RelativeDocumentMoniker": "Proyecto banco\\Clases\\Transacciones.cs",
               "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Transacciones.cs",
               "RelativeToolTip": "Proyecto banco\\Clases\\Transacciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T01:51:36.141Z"
+              "WhenOpened": "2024-08-13T01:51:36.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Cliente.cs",
               "RelativeDocumentMoniker": "Proyecto banco\\Clases\\Cliente.cs",
@@ -70,31 +106,34 @@
               "RelativeToolTip": "Proyecto banco\\Clases\\Cliente.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T01:51:36.144Z"
+              "WhenOpened": "2024-08-13T01:51:36.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Banco.cs",
               "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Banco.cs",
               "RelativeDocumentMoniker": "Proyecto banco\\Clases\\Banco.cs",
               "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\Banco.cs",
               "RelativeToolTip": "Proyecto banco\\Clases\\Banco.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAswHUAAABCAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwP4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T01:51:36.144Z"
+              "WhenOpened": "2024-08-13T01:51:36.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnvioCorreo.cs",
               "DocumentMoniker": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\EnvioCorreo.cs",
               "RelativeDocumentMoniker": "Proyecto banco\\Clases\\EnvioCorreo.cs",
               "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Clases\\EnvioCorreo.cs",
               "RelativeToolTip": "Proyecto banco\\Clases\\EnvioCorreo.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwOwAAAAkAAAA",
+              "ViewState": "AQIAAP0AAAAAAAAAAADwvxQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T01:51:36.145Z"
+              "WhenOpened": "2024-08-13T01:51:36.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +143,7 @@
               "RelativeDocumentMoniker": "Proyecto banco\\Program.cs",
               "ToolTip": "C:\\Users\\royol\\Documents\\Proyecto banco\\Proyecto banco\\Program.cs",
               "RelativeToolTip": "Proyecto banco\\Program.cs",
-              "ViewState": "AQIAAOYAAAAAAAAAAAAgwCwAAABUAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T01:51:36.262Z",
               "EditorCaption": ""
