@@ -1,0 +1,33 @@
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe.config
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.pdb
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.exe
+C:\Users\ESTUDIANTE\Desktop\Roberto Codigo\objecto\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe.config
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.AssemblyReference.cache
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.CoreCompileInputs.cache
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Downloads\Proyecto banco\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe.config
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.AssemblyReference.cache
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.csproj.CoreCompileInputs.cache
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\bin\Debug\Proyecto banco.exe.config
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\bin\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\bin\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\obj\Debug\Proyecto banco.csproj.AssemblyReference.cache
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\obj\Debug\Proyecto banco.csproj.CoreCompileInputs.cache
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\obj\Debug\Proyecto banco.exe
+C:\Users\SirLancelotR pc\Documents\Proyecto banco - Copy\Proyecto banco\obj\Debug\Proyecto banco.pdb
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.exe.manifest
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\bin\Debug\Proyecto banco.application
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.exe.manifest
+C:\Users\SirLancelotR pc\Documents\Proyecto banco\Proyecto banco\obj\Debug\Proyecto banco.application
